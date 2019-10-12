@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="722ce37e-4a9d-4c2e-abd5-f23abeecc3eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RLmSap6rCCQP2HJp2m1NtJnYRf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Reusable_Classes" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Selenium\src\test\java\Action_Items" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Report_Folder" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Test_Suite_10052019" />
+      <recent name="Action_Items" />
+      <recent name="Reusable_Classes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Selenium\src\main\java\Reusable_Classes" />
+      <recent name="C:\Users\User\Desktop\Selenium\src\main\java\Yahoo_Page_Object" />
+      <recent name="C:\Users\User\Desktop\Selenium\src\test\java\Yahoo_Test_Page_Object" />
+      <recent name="C:\Users\User\Desktop\Selenium\src\main\resources" />
+      <recent name="C:\Users\User\Desktop\Selenium\src\test\java\Online_Samples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/User/Desktop/Selenium/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test_1.xml">
+    <configuration name="Action_Express_testNG_Excel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Action_Items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Action_Express_testNG_Excel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Action_Express_testNG_Excel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Action_Items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Action_Express_testNG_Excel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/Desktop/Selenium/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test_1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test_1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/Desktop/Selenium/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Yahoo_Registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Online_Samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Yahoo_Registration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Yahoo_Registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" />
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Yahoo_Registration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Weight_Watchers_testNG_Excel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Action_Items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Weight_Watchers_testNG_Excel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_TestNG" type="TestNG" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_09222019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Yahoo_TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_TestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_09222019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Yahoo_TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_TestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_09222019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Yahoo_TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_TestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_09222019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Yahoo_TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_TestNG.fullTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_09222019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Action_Items" />
+      <option name="MAIN_CLASS_NAME" value="Action_Items.Yahoo_TestNG" />
+      <option name="METHOD_NAME" value="fullTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/User/Desktop/Selenium/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test_1.xml" />
+        <item itemvalue="TestNG.C:/Users/User/Desktop/Selenium/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" />
+        <item itemvalue="TestNG.TC02_Yahoo_Registration" />
+        <item itemvalue="TestNG.TC02_Yahoo_Registration" />
+        <item itemvalue="TestNG.Yahoo_TestNG.fullTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="722ce37e-4a9d-4c2e-abd5-f23abeecc3eb" name="Default Changelist" comment="" />
+      <created>1569454750192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569454750192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
